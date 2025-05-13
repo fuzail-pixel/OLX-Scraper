@@ -1,0 +1,6 @@
+Flask
+playwright
+python-dotenv
+gunicorn
+requests
+beautifulsoup4
