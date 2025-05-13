@@ -150,6 +150,10 @@ cython_debug/
 # Track .gitkeep files so empty dirs can be versioned
 !.gitkeep
 
+# Fix for static/downloads folder
+static/downloads/*
+!static/downloads/.gitkeep
+
 ### 🚫 OPTIONAL OS-SPECIFIC FILES ###
 # Windows system files
 Thumbs.db
