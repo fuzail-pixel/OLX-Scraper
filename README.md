@@ -38,7 +38,7 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/olx-scraper.git
+   git clone https://github.com/fuzail-pixel/OLX-Scraper.git
    cd olx-scraper
    ```
 
